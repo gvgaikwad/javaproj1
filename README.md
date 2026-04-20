@@ -1,2 +1,2 @@
-# javaproj1
+# javaproj2
 This is my java project2 repository
